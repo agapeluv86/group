@@ -1,0 +1,50 @@
+/*div{
+	border:1px solid black;
+	min-height:0px;
+}*/
+.mynav{
+	padding-left: 500px;
+	font-weight:500;
+	color:#000000; !important
+}
+.banner1{
+	width:70%;
+	height:;
+	border-left:3px solid #d23023;
+	border-right:0px solid red;
+	border-bottom:0px solid red;
+	border-top:0px solid red;
+}
+.banner1 p{
+	font-size:15px;
+	color:red;
+	margin-bottom:0px;
+	font-weight:500;
+}
+.banner1 h2{
+	padding:0px;
+	margin:0px;
+}
+.myicon{
+	width:50px;
+}
+.number1{
+	font-size:40px;
+}
+.myshadow{
+	box-shadow:1px 1px 5px grey;
+}
+.mycontact{
+	background:black;
+	color:white;
+	border-radius:5px;
+}
+input{
+	background:none;
+}
+label{
+	color:white;
+}
+.micon{
+	width:20px;
+}
